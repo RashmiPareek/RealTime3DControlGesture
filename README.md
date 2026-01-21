@@ -1,7 +1,3 @@
-# RealTime3DControlGesture
-ROBOMINATI is a high-performance, interactive 3D particle engine that bridges the gap between digital art and Human-Computer Interaction (HCI). By utilizing real-time computer vision and GPU-accelerated rendering, the project allows users to manipulate thousands of "stardust" particles using only their hands.
-
-
 # 🌌 Robominati: Celestial Air-Typer
 
 **Robominati** is a real-time, gesture-controlled 3D particle engine built using **Three.js** and **MediaPipe Hands**. It allows users to "vibe code" in 3D space, selecting and shattering letters through intuitive hand gestures.
